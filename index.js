@@ -28,5 +28,5 @@ function numCuadrado (num1) {
     console.log(num1 * num1);
 }
 numCuadrado(7);
-s
+
 module.exports = {suma,resta,multiplicar,division};
