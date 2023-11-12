@@ -1,25 +1,25 @@
 
-function suma ( num1 , num2){
-    let num3 = 0;
-    console.log(num1 + num2);
+function suma ( num1 , num2 , num3){
+
+    console.log(num1 + num2 + num3);
 }
 suma;
 
 
 function resta (num1 , num2){
-    let num3 = 0;
+
     console.log(num1 - num2);
 }
 resta(10 , 5);
 
 function multiplicar (num1 , num2){
-    let num3 = 0;
+
     console.log(num1 * num2);
 }
 multiplicar(5 , 2);
 
 function division (num1 , num2){
-    let num3 = 0;
+
     console.log(num1 / num2);
 }
 division(10,5);
